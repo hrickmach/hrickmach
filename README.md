@@ -1,6 +1,5 @@
 ## Olá! Bem-vindo(a) ao meu perfil! 👋😄
 
-✅ Bem vindo ao meu GitHub!<br>
 ✅ ETEC Getúlio Vargas - Técnico em Desenvolvimento de Sistemas.<br>
 👨🏽‍🎓 1º semestre - Análise e Desenvolvimento de Sistemas (IFSP).
 
@@ -23,3 +22,6 @@
   <img  align="center" alt="Dan-MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
   
+
+
+
