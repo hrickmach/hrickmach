@@ -1,12 +1,12 @@
 ## Olá! Bem-vindo(a) ao meu perfil! 👋😄
 
-✅ ETEC Getúlio Vargas - Técnico em Desenvolvimento de Sistemas.<br>
-👨🏽‍🎓 1º semestre - Análise e Desenvolvimento de Sistemas (IFSP).
+✅ ETEC Getúlio Vargas - Técnico em Desenvolvimento de Sistemas<br>
+👨🏽‍🎓 1º semestre - Análise e Desenvolvimento de Sistemas (IFSP)
 
 ### Estudando:
 
-- Desenvolvimento Full Stack com Java e Angular -  Bootcamp Santander.
-- Linguagem C#.
+- Desenvolvimento Full Stack com Java e Angular -  Bootcamp Santander
+- Linguagem C#
 
 ### Tecnologias:
 
