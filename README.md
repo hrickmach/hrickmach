@@ -1,7 +1,7 @@
 ## Olá! Bem-vindo(a) ao meu perfil! 👋😄
 
 ✅ ETEC Getúlio Vargas - Técnico em Desenvolvimento de Sistemas<br>
-👨🏽‍🎓 1º semestre - Análise e Desenvolvimento de Sistemas (IFSP)
+👨🏽‍🎓 3º semestre - Análise e Desenvolvimento de Sistemas (IFSP)
 
 ### Estudando:
 
